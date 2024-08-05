@@ -55,6 +55,7 @@ header nav {
     align-items: center;
     justify-content: space-between;
     padding: 58px 150px 0 150px;
+    gap: 20px;
 }
 .showcase_title h1{
 font-family: DM Serif Display;
@@ -69,6 +70,7 @@ width: 546px;
     align-items: center;
     justify-content: space-between;
     padding: 177px 11% 0 11%;
+    gap: 20px;
 }
 .one_description{
     display: flex;
@@ -223,6 +225,7 @@ text-align: center;
     .one_container{
         padding: 180px 11% 0 11%;
         justify-content: space-between;
+        gap: 20px;
         align-items: center;
     }
     .one_img img{
